@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-shadow: 2px 2px grey;
+}
+body {background-color: lightsteelblue;}
+
+p {
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+}
